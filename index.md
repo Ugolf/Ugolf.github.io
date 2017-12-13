@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Ugolf says Hello World
 
-You can use the [editor on GitHub](https://github.com/Ugolf/Ugolf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+He forgot about his github repositories. His code here is not polishied, but he think there is a chance to change it. 
+He says GitHub Pages is very useful tool to make nice blog to share with othere developers and people who afraid programming.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ugolf/Ugolf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hello World
+```
+What will be the first **real** project to add here and keep it update here? It is unknown for him for now. He has a lot of ideas to implement, build, but he is too lazy. Too _bad!_ Let's change this! New year - new provisions. 
+`return true` to sentence: _No more same day routine!_ 
